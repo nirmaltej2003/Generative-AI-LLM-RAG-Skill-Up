@@ -80,7 +80,7 @@ Artificial Intelligence (AI) is a technology that enables machines and computers
 AI is based on core concepts and technologies that enable machines to learn, reason and make decisions on their own.
 
 
-1. Machine Learning (ML)
+1️⃣ Machine Learning (ML)
 
 Machine Learning is a subset of Artificial Intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Instead of being explicitly programmed, machine learning models use algorithms to identify patterns in data and improve performance over time without human intervention.
 
@@ -90,7 +90,7 @@ Uses:
 - Medical diagnosis
 
 
-2. Generative AI
+2️⃣ Generative AI
 
 Generative AI is designed to create new content such as text, images, music or video. Unlike traditional AI that focuses on analyzing data, generative AI creates original outputs using learned patterns from large datasets.
 
@@ -101,7 +101,7 @@ Examples:
 - Video creation
 
 
-3. Natural Language Processing (NLP)
+3️⃣ Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) allows machines to understand, interpret and generate human language. It enables systems like Siri and Alexa to recognize speech and respond naturally.
 
@@ -112,7 +112,7 @@ Applications:
 - Chatbots
 
 
-4. Expert Systems
+4️⃣ Expert Systems
 
 Expert Systems simulate the decision-making ability of human experts. They use predefined rules and domain knowledge to provide solutions similar to specialists.
 
@@ -125,50 +125,50 @@ Example:
 
 AI works by simulating intelligent behavior through the following steps:
 
-1. Data Collection  
+1️⃣ Data Collection  
 AI systems rely on large datasets such as images, text or sensor data.
 
-2. Processing and Learning  
+2️⃣ Processing and Learning  
 Algorithms analyze data and identify patterns.
 
-3. Model Training  
+3️⃣ Model Training  
 Models adjust internal parameters to improve prediction accuracy.
 
-4. Decision Making  
+4️⃣ Decision Making  
 The trained model makes decisions based on learned patterns.
 
-5. Feedback and Improvement  
+5️⃣ Feedback and Improvement  
 Using feedback, AI improves performance over time (reinforcement learning).
 
 
 ## Types of Artificial Intelligence
 
 
-1. Based on Capabilities
+1️⃣ Based on Capabilities
 
-Narrow AI (Weak AI)  
-Designed to perform specific tasks such as voice assistants or recommendation systems.
+  a) Narrow AI (Weak AI)  
+     Designed to perform specific tasks such as voice assistants or recommendation systems.
 
-General AI (Strong AI)  
-A theoretical concept where AI can perform any intellectual task a human can do.
+  b) General AI (Strong AI)  
+     A theoretical concept where AI can perform any intellectual task a human can do.
 
-Superintelligent AI  
-A hypothetical AI that surpasses human intelligence in all areas.
+  c) Superintelligent AI  
+     A hypothetical AI that surpasses human intelligence in all areas.
 
 
-2. Based on Functionalities
+2️⃣ Based on Functionalities
 
-Reactive Machines  
-Respond only to current situations without learning from past experiences.
+  a) Reactive Machines  
+     Respond only to current situations without learning from past experiences.
 
-Limited Memory  
-Use past data to make better decisions (example: self-driving cars).
+  b) Limited Memory  
+     Use past data to make better decisions (example: self-driving cars).
 
-Theory of Mind  
-A theoretical AI capable of understanding emotions, beliefs and intentions.
+  c) Theory of Mind  
+     A theoretical AI capable of understanding emotions, beliefs and intentions.
 
-Self-Aware AI  
-A hypothetical AI with consciousness and self-awareness.
+  d) Self-Aware AI  
+     A hypothetical AI with consciousness and self-awareness.
 
 
 ## AI Models
@@ -176,21 +176,21 @@ A hypothetical AI with consciousness and self-awareness.
 AI models learn from data and make predictions or decisions.
 
 
-1. Supervised Learning Models
+1️⃣ Supervised Learning Models
 
 - Trained on labeled data
 - Learns input-output relationships
 - Used in image classification and spam detection
 
 
-2. Unsupervised Learning Models
+2️⃣ Unsupervised Learning Models
 
 - Works with unlabeled data
 - Finds hidden patterns and groupings
 - Used for clustering and anomaly detection
 
 
-3. Reinforcement Learning Models
+3️⃣ Reinforcement Learning Models
 
 - Learns through rewards and penalties
 - Improves decisions over time
@@ -208,35 +208,35 @@ AI models learn from data and make predictions or decisions.
 
 ## Real-World Applications of AI
 
-Healthcare  
-Early diagnosis and treatment recommendations.
+1️⃣ Healthcare  
+    Early diagnosis and treatment recommendations.
 
-Retail  
-Personalized shopping and inventory management.
+2️⃣ Retail  
+   Personalized shopping and inventory management.
 
-Customer Service  
-AI chatbots providing 24/7 support.
+3️⃣ Customer Service  
+   AI chatbots providing 24/7 support.
 
-Manufacturing  
-Predictive maintenance and supply chain optimization.
+4️⃣ Manufacturing  
+    Predictive maintenance and supply chain optimization.
 
-Finance  
-Fraud detection, market analysis and investment advice.
+5️⃣ Finance  
+    Fraud detection, market analysis and investment advice.
 
 
 ## Challenges of AI
 
-Data Privacy and Security  
-Protecting sensitive data and user privacy.
+1️⃣ Data Privacy and Security  
+    Protecting sensitive data and user privacy.
 
-Bias and Fairness  
-Reducing biased and discriminatory outcomes.
+2️⃣ Bias and Fairness  
+    Reducing biased and discriminatory outcomes.
 
-Lack of Transparency  
-Difficulty in understanding AI decision-making.
+3️⃣ Lack of Transparency  
+    Difficulty in understanding AI decision-making.
 
-Job Displacement  
-Automation replacing human jobs.
+4️⃣ Job Displacement  
+    Automation replacing human jobs.
 
-Ethical Concerns  
-Responsible use of AI in surveillance and autonomous systems.
+5️⃣ Ethical Concerns  
+    Responsible use of AI in surveillance and autonomous systems.
