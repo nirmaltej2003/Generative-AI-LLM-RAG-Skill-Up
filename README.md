@@ -70,6 +70,8 @@ Errors can stop a program, and exception handling (`try-except`) helps manage th
 - Introduction to NumPy  
 - Introduction to Pandas  
 
+-----
+
 ## Artificial Intelligence (AI)
 
 Artificial Intelligence (AI) is a technology that enables machines and computers to perform tasks that typically require human intelligence. It helps systems learn from data, recognize patterns and make decisions to solve complex problems. AI is used in healthcare, finance, e-commerce and transportation, offering personalized recommendations and enabling self-driving cars.
