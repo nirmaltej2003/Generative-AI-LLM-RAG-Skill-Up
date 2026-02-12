@@ -3,6 +3,8 @@
 Python is a high-level, interpreted programming language that is simple to learn and widely used in areas such as **data science, machine learning, automation, and Generative AI**.  
 Its clear syntax and powerful libraries make it the backbone of AI development, helping developers and researchers quickly test, build, and scale ideas.
 
+![image](https://github.com/nirmaltej2003/Generative-AI-LLM-RAG-Skill-Up/blob/main/Screenshot%202026-02-12%20055703.png)
+
 
 ## 1. Getting Started with Python
 
